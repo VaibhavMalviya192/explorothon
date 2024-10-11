@@ -1,2 +1,2 @@
-# explorothon
+# Explorothon
 Explorothon is a hackthon.
